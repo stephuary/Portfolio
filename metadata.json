@@ -1,0 +1,6 @@
+{
+  "name": "Stephuary — Experience Architect Portfolio",
+  "description": "Streaming-style interactive portfolio of creative concepts, systems architecture, and prototypes by Stephuary, featuring the Celestial Astrology Hospitality Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
